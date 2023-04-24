@@ -1,0 +1,20 @@
+genre,movie_count,avg_rating,reservation_count
+Drama,3,4.1000000000000005,6
+Action|Crime|Drama|Mystery|Thriller,1,4.5,3
+Action|Crime|Thriller,1,8.5,1
+Adventure|Comedy|Drama|Fantasy,1,8.5,3
+Adventure|Comedy|Sci-Fi,1,6.5,1
+Children|Comedy,1,7.5,1
+Comedy,1,2.7000000000000006,3
+Comedy|Drama,1,2.4,3
+Comedy|Drama|Musical|Romance,1,4.9,1
+Comedy|Drama|Romance,1,4.7,1
+Comedy|Romance,1,8.6,1
+Crime|Drama,1,5.3,1
+Crime|Drama|Thriller,1,1.9,1
+(no genres listed),1,8.6,1
+Drama|Mystery|Thriller,1,2.3,2
+Drama|War,1,9.5,3
+Drama|Western,1,9.8,3
+Horror,1,6.2,1
+Sci-Fi,1,4.3,1
