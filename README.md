@@ -1,7 +1,9 @@
 # **Movie Ticket Reservation System**
+
 </br>
 
 ## **Objectives**
+
 </br>
 
 * Generate Data for the database from online sources
@@ -17,7 +19,7 @@
 
 </br>
 
-<img src = "Diagrams/Architecture Diagram.jpg">
+<img src = "Diagrams/architecture_diagram.jpg">
 
 </br>
 
