@@ -33,4 +33,4 @@
 
 </br>
 
-<img srd = "Diagrams/graph_model.jpg">
+<img src = "Diagrams/graph_model.jpg">
