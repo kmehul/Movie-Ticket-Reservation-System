@@ -19,7 +19,7 @@
 
 </br>
 
-<img src = "Diagrams/architecture_diagram.jpg">
+<img src = "Diagrams/architecture_diagram.png">
 
 </br>
 
