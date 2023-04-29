@@ -27,7 +27,7 @@
 
 </br>
 
-### **Architecture Diagram**
+## **Architecture Diagram**
 
 </br>
 
@@ -35,7 +35,7 @@
 
 </br>
 
-### **Document Diagram**
+## **Document Diagram**
 
 </br>
 
@@ -43,7 +43,7 @@
 
 </br>
 
-### **Graph Diagram**
+## **Graph Diagram**
 
 </br>
 
