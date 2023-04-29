@@ -6,7 +6,7 @@
 
 </br>
 
-This project aims to build a database system based on the document data model for ArangoDB. This database has 5 collections: Customer, Reservation, Showtime, Movie and Theater, which have the data for the named types respectively. The aim of this project is to discover the trends and insights about the customers, movies, and theaters based on the data in the system. The analysis is done based on complex ArangoDB queries run in the ArangoDB web ui portal. Visualizations are also created to discover trends and create insight to increase the potential revenue for the entities involved in the Movie Theater Businesses.
+This project aims to build a database system based on the document data model for ArangoDB. This database has 5 collections: Customer, Reservation, Showtime, Movie and Theater, which have the data for the named types respectively. The aim of this project is to discover the trends and insights about the customers, movies, and theaters based on the data in the system. The analysis is done based on complex ArangoDB queries run in the ArangoDB web ui portal. Visualizations are also created using Tableau to discover trends and create insights to increase the potential revenue for the entities involved in the Movie Theater Businesses.
 
 </br>
 
