@@ -1,8 +1,4 @@
-# **Movie Ticket Reservation System**
-
-</br>
-
-## **About the Project**
+# **About the Project**
 
 </br>
 
